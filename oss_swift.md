@@ -23,27 +23,53 @@
 
 
 ---
+
 ## 💕Memories💕
 ![inline](first_commit.png)
 
 ---
-##  forums
+
+## Swift Bug tracker
+
+https://bugs.swift.org/
+
+![inline](bug_tracker.png)
+
+---
+
+DO IT NOW!
+
+![](https://www.youtube.com/watch?v=a6P40wLThbc)
+
+---
+
+##  Swift forums
 
 https://forums.swift.org/
 
 ![inline](swift_forums.png)
 
 --- 
-## Swift Bug tracker
+Talk to your hearts content
 
-https://bugs.swift.org/
-
+![](https://www.youtube.com/watch?v=0rqykAlYebQ&t=31s)
 
 ---
-![](https://www.youtube.com/watch?v=a6P40wLThbc)
+
+
+## TL;DR setup
+
+- Install XCode 10.2 Beta
+
+```bash
+ $ brew install cmake ninja
+ $ mkdir working-swift
+ $ cd working-swift
+ $ git clone https://github.com/apple/swift.git
+ $ ./swift/utils/update-checkout --clone
+
+```
+
 ---
-## ...next
-Install XCode 10.2 Beta
-
-
+DONE
 ---
